@@ -1,7 +1,7 @@
 # WPI_REU_RRI_2021
 This repository contains MATLAB code created during the 2021 Research Experience for Undergraduates (REU) sponsered by Worcester Polythechnic Institute (WPI). The industrial sponsor was the Renal Research Institute (RRI). 
-Work was done by Veronica Berger, Williams College, Olivia Tom, Boston University, and Yael Yossefy, Wesleyan University. 
-Our academic advisors were Dr. Samuel Walcott and Dr. Duncan Wright. 
+Work was done by Veronica Berger (Williams College), Olivia Tom (Boston University), and Yael Yossefy (Wesleyan University). 
+Our academic advisors were Dr. Sam Walcott and Dr. Duncan Wright. 
 Our industrial liaison was Dr. Alhaji Cherif.
 
 Abstract:
